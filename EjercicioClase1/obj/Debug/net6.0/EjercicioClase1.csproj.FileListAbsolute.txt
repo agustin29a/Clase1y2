@@ -1,0 +1,15 @@
+C:\VARIOS\Agus\Facu\CursoC#\EjercicioClase1\EjercicioClase1\bin\Debug\net6.0\EjercicioClase1.exe
+C:\VARIOS\Agus\Facu\CursoC#\EjercicioClase1\EjercicioClase1\bin\Debug\net6.0\EjercicioClase1.deps.json
+C:\VARIOS\Agus\Facu\CursoC#\EjercicioClase1\EjercicioClase1\bin\Debug\net6.0\EjercicioClase1.runtimeconfig.json
+C:\VARIOS\Agus\Facu\CursoC#\EjercicioClase1\EjercicioClase1\bin\Debug\net6.0\EjercicioClase1.dll
+C:\VARIOS\Agus\Facu\CursoC#\EjercicioClase1\EjercicioClase1\bin\Debug\net6.0\EjercicioClase1.pdb
+C:\VARIOS\Agus\Facu\CursoC#\EjercicioClase1\EjercicioClase1\obj\Debug\net6.0\EjercicioClase1.csproj.AssemblyReference.cache
+C:\VARIOS\Agus\Facu\CursoC#\EjercicioClase1\EjercicioClase1\obj\Debug\net6.0\EjercicioClase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\VARIOS\Agus\Facu\CursoC#\EjercicioClase1\EjercicioClase1\obj\Debug\net6.0\EjercicioClase1.AssemblyInfoInputs.cache
+C:\VARIOS\Agus\Facu\CursoC#\EjercicioClase1\EjercicioClase1\obj\Debug\net6.0\EjercicioClase1.AssemblyInfo.cs
+C:\VARIOS\Agus\Facu\CursoC#\EjercicioClase1\EjercicioClase1\obj\Debug\net6.0\EjercicioClase1.csproj.CoreCompileInputs.cache
+C:\VARIOS\Agus\Facu\CursoC#\EjercicioClase1\EjercicioClase1\obj\Debug\net6.0\EjercicioClase1.dll
+C:\VARIOS\Agus\Facu\CursoC#\EjercicioClase1\EjercicioClase1\obj\Debug\net6.0\refint\EjercicioClase1.dll
+C:\VARIOS\Agus\Facu\CursoC#\EjercicioClase1\EjercicioClase1\obj\Debug\net6.0\EjercicioClase1.pdb
+C:\VARIOS\Agus\Facu\CursoC#\EjercicioClase1\EjercicioClase1\obj\Debug\net6.0\EjercicioClase1.genruntimeconfig.cache
+C:\VARIOS\Agus\Facu\CursoC#\EjercicioClase1\EjercicioClase1\obj\Debug\net6.0\ref\EjercicioClase1.dll
